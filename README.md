@@ -1,28 +1,25 @@
-# hexo-theme-athena
+# hexo-theme-jathena
 
-A theme for [hexo](http://hexo.io/), modify from Hexo default [landscape](https://github.com/hexojs/hexo-theme-landscape/) theme.
+A Japanese theme for [hexo](http://hexo.io/), modify from Hexo [athena](https://github.com/steven5538/hexo-theme-athena) theme.
 
-[Preview](http://steven5538.tw)
-
-![pic1][pic1]
-![pic2][pic2]
+[Preview](http://ntddk.github.io)
 
 ## Installation
 
 ### Install
 
 ``` bash
-$ git clone https://github.com/steven5538/hexo-theme-athena.git themes/athena
+$ git clone https://github.com/ntddk/hexo-theme-jathena.git themes/jathena
 ```
 
 ### Enable
 
-Modify `theme` setting in `_config.yml` to `athena`.
+Modify `theme` setting in `_config.yml` to `jathena`.
 
 ### Update
 
 ``` bash
-cd theme/athena
+cd theme/jathena
 git pull
 ```
 
@@ -60,6 +57,3 @@ twitter:
 - **google_analytics** - Google Analytics ID
 - **favicon** - Favicon path
 - **twitter** - Twiiter ID
-
-[pic1]: http://i.imgur.com/Z01sQij.png
-[pic2]: http://i.imgur.com/jwbCNKA.png
