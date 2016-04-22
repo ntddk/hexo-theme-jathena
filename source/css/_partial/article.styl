@@ -279,6 +279,15 @@ $article-share-link
   &:hover
     color: #fff
 
+.article-share-hatena
+  @extend $article-share-link
+  &:before
+    content: "B!"
+    font-weight: bold
+  &:hover
+    background: color-hatena
+    text-shadow: 0 1px darken(color-hatena, 20%)
+
 .article-share-twitter
   @extend $article-share-link
   &:before
