@@ -1,8 +1,8 @@
 # hexo-theme-jathena
 
-A Japanese theme for [hexo](http://hexo.io/), modify from Hexo [athena](https://github.com/steven5538/hexo-theme-athena) theme.
+A Japanese theme for [hexo](https://hexo.io/), modify from Hexo [athena](https://github.com/steven5538/hexo-theme-athena) theme.
 
-[Preview](http://ntddk.github.io)
+[Preview](https://ntddk.github.io)
 
 ## Installation
 

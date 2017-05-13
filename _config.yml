@@ -1,7 +1,7 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
+#   Archives: /archives
   About: /about
 # Header Icon
 menu_icon:
@@ -9,7 +9,7 @@ menu_icon:
   Archives: nav-archives-icon
   About: nav-about-icon
 
-rss: /atom.xml
+# rss: /atom.xml
 
 # Content
 excerpt_link: Read More
@@ -17,7 +17,7 @@ fancybox: true
 
 # Miscellaneous
 google_analytics:
-favicon: /favicon.png
+favicon:
 twitter:
 google_plus:
 fb_admins:
